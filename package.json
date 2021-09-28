@@ -1,5 +1,5 @@
 {
-  "name": "gravacao",
+  "name": "Estudos grahpql/prisma/nexus",
   "version": "1.0.0",
   "description": "API GraphQL com Prisma/Nexus e MySQL",
   "main": ".src/index.js",
@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JulianaAmoasei/2036-graphql-prisma2.git"
+    "url": "https://github.com/alisson-amaral-silva/graphql-prisma2.git"
   },
   "keywords": [],
-  "author": "Alura",
+  "author": "Alisson Alcântara Amaral da Silva",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JulianaAmoasei/2036-graphql-prisma2/issues"
-  },
-  "homepage": "https://github.com/JulianaAmoasei/2036-graphql-prisma2#readme",
+  "homepage": "https://github.com/alisson-amaral-silva/graphql-prisma2.git#readme",
   "dependencies": {
     "@nexus/schema": "^0.20.1",
     "@prisma/client": "^3.1.1",
